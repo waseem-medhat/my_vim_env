@@ -2,10 +2,6 @@
 title: "R Environment on Vim: Building my Own IDE"
 author: Waseem Medhat
 output:
-  pdf_document:
-    number_sections: true
-    includes:
-      in_header: preamble.tex
   md_document:
     variant: markdown_github
 ---
