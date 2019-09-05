@@ -69,8 +69,8 @@ pane where you write scripts and R Markdown.
 
 - Generally speaking, I don't use the mouse (at all) when editing with Vim.
   What is even better is that executing commands require mostly 2-3 keystrokes
-  without a lot of modifier keys (like Ctrl and Alt)^[Sorry not sorry,
-  Emacs...], most frequently near or exactly on home row.
+  without a lot of modifier keys like Ctrl and Alt (Sorry not sorry, Emacs...),
+  most frequently near or exactly on home row.
 
 - Also, since Vim is purely command-line, I get deprived from the GUI features
   in RStudio like a knit button or creation of a project directory, etc. It

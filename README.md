@@ -24,7 +24,7 @@ Vim itself!
 
     2.  There is a paragraph with weird line lengths: some are too short, some are exceeding the best practice limit of 80 characters. All I have to do is keep the cursor on any line of that paragraph and press **gqap**. The whole paragraph is joined and separated whenever is appropriate to make all lines at 80 characters max. (I memorize **gq** for formatting and **ap** is short for a paragraph, which can be replaced with other motions.)
 
--   Generally speaking, I don't use the mouse (at all) when editing with Vim. What is even better is that executing commands require mostly 2-3 keystrokes without a lot of modifier keys (like Ctrl and Alt)[1], most frequently near or exactly on home row.
+-   Generally speaking, I don't use the mouse (at all) when editing with Vim. What is even better is that executing commands require mostly 2-3 keystrokes without a lot of modifier keys like Ctrl and Alt (Sorry not sorry, Emacs...), most frequently near or exactly on home row.
 
 -   Also, since Vim is purely command-line, I get deprived from the GUI features in RStudio like a knit button or creation of a project directory, etc. It would be up to me to dive under the hood and figure out what pieces of code account for those buttons. This could be better or worse for your view, but I appreciate the learning process that goes into that.
 
@@ -104,5 +104,3 @@ Final thoughts
 I may or may not succeed eventually in making a work-ready IDE in the long run, but in any case, learning editing in Vim and tweaking it is a very engaging and fun experience to me. I like trying out new pieces of software, especially ones that allow lots of customization and productivity boosting, and Vim gave me that!
 
 > P.S. I also love RStudio. :D
-
-[1] Sorry not sorry, Emacs...
