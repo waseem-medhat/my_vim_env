@@ -56,6 +56,11 @@ Completion
 
 ![Completion](screens/compl.png)
 
+Automatic pair adjustment
+=========================
+
+-   RStudio, like most modern IDEs and editors, inserts automatically a closing parenthesis which works with other paired symbols. Also, pressing enter in the middle of a pair automatically adjusts parentheses and their indentation. This behavior can be integrated in Vim with a plugin called auto-pairs.
+
 Relative line numbers
 =====================
 
