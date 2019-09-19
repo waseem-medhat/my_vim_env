@@ -5,11 +5,11 @@ If you haven't heard about it, Vim is a text editor: a program you'd use to type
 First: points to consider
 =========================
 
--   This environment is by no means an RStudio replacement. However, it works for my use cases. I also keep adding new things to it constantly. It is like my own piece of software that gets new additions and fixes over time.
+-   This environment is by no means an RStudio replacement: RStudio is an IDE, while Vim is a text editor However, it works for my use cases. I also keep adding new things to it constantly. It is like my own piece of software that gets new additions and fixes over time.
 
 -   The content here does not suffice as a tutorial, although it can be informational and give some leads for whoever is interested.
 
--   In fact, RStudio has Vim keybindings. If you were sold on learning Vim but don't want to change from RStudio, I can recommend learning Vim and using its bindings in RStudio. It isn't a bad compromise.
+-   RStudio has Vim keybindings. If you were sold on learning Vim but don't want to change from RStudio, I can recommend learning Vim and using its bindings in RStudio. It isn't a bad compromise.
 
 -   I use Neovim as it has a better implementation of a terminal emulator than Vim, but the environment itself (including plug-ins and configuration) is applicable in practically any version of Vim.
 
@@ -59,7 +59,7 @@ Completion
 Automatic pair adjustment
 =========================
 
--   RStudio, like most modern IDEs and editors, inserts automatically a closing parenthesis which works with other paired symbols. Also, pressing enter in the middle of a pair automatically adjusts parentheses and their indentation. This behavior can be integrated in Vim with a plugin called auto-pairs.
+-   RStudio, like most modern IDEs and editors, inserts automatically a closing parenthesis which works with other paired symbols. Also, pressing enter in the middle of a pair automatically adjusts parentheses and their indentation. This behavior can be integrated in Vim with a plugin called pear-tree.
 
 Relative line numbers
 =====================
